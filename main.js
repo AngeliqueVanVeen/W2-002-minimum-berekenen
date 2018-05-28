@@ -5,4 +5,5 @@ function getMinValue(number1,number2) {
       console.log(number2);
     }
 };
-getMinValue(162,44);
+getMinValue(0,10);
+getMinValue(0,-10);
